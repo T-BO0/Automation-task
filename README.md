@@ -6,7 +6,7 @@
 - [ExtentReports](https://www.extentreports.com/) (for reporting)
 - [NUnit](https://nunit.org/) (for testing framework)
 
-## Installation
+## Installation and Usage
 
 1. **Clone the Repository**
 
