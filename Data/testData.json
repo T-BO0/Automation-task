@@ -1,0 +1,17 @@
+{
+  "CorrectEmail": "test_email@gmail.com",
+  "CorrectPassword": "CorrectPa$$w0rd",
+
+  "UpdateProfileInfoTest": {
+    "ValidFristName":"TestName",
+    "ValidLastName":"TestLastName"
+  },
+
+  "SearchHotel": {
+    "Location":"Batumi",
+    "NumberOfAdults":1,
+    "NumberOfChildren":2,
+    "NumberOfRooms":1,
+    "MaxPrice":300
+  }
+}
